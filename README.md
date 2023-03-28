@@ -6,7 +6,7 @@ Hello there! My name is Nur Anisah, and I am a Proggrammer. I am passionate abou
 
 ## Contact Me
 
-Feel free to contact me at nnuranisahh@gmail.com or connect with me on instagram https://instagram.com/anisa_sz
+Feel free to contact me at nnuranisahh@gmail.com or connect with me on instagram https://instagram.com/anisa_sz, and you can find me at linkedIn https://linkedin.com/in/nuranisah01.
 I am always open to new opportunities and collaborations.
 
 Thank you for taking the time to read my profile!
