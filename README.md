@@ -23,19 +23,19 @@ I am always open to new opportunities and collaborations. Thank you for taking t
   - :office: [LinkedIn](https://www.linkedin.com/in/nuranisah01/)
   <!-- - [Twitter](https://twitter.com/anisa_sz) -->
   - :bulb: [Instagram](https://instagram.com/anisa_sz)
-  - 
-- 📫 Learn more about me on:  
+
+<!-- - 📫 Learn more about me on:   -->
   <!-- - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)-->
   - :email: [Email] nnuranisahh@gmail.com 
 
 
-### Stats
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=nuraln&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Stats -->
+<!-- [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=nuraln&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://api.githubtrends.io/user/svg/nuraln/langs?time_range=one_year&include_private=True&theme=classic)
+<!-- ![](https://api.githubtrends.io/user/svg/nuraln/langs?time_range=one_year&include_private=True&theme=classic) -->
 
     
-### Packages I created
+<!-- ### Packages I created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraln&repo=data-science-template)](https://github.com/nuraln/python-graphAndBinaryTree ) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraln&repo=analyze_github_feed)](https://github.com/nuraln/ PHP-loginRegisterSimple)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraln&repo=analyze_github_feed)](https://github.com/nuraln/ PHP-loginRegisterSimple) -->
 
