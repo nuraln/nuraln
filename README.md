@@ -21,11 +21,12 @@ I am always open to new opportunities and collaborations. Thank you for taking t
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/nuranisah01/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/anisa_sz)
-- 📫 Learn more about me on:  
+  <!-- - [Twitter](https://twitter.com/anisa_sz) -->
   - :bulb: [Instagram](https://instagram.com/anisa_sz)
-  - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)
-  - :email: [Email](nnuranisahh@gmail.com) 
+  - 
+- 📫 Learn more about me on:  
+  <!-- - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)-->
+  - :email: [Email] nnuranisahh@gmail.com 
 
 
 ### Stats
