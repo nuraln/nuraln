@@ -6,10 +6,8 @@ Hello there! My name is Nur Anisah, and I am a Proggrammer. I am passionate abou
 
 ## Contact Me
 
-Feel free to contact me at nnuranisahh@gmail.com or connect with me on istagram anisa_sz. I am always open to new opportunities and collaborations.
-
-Thank you for taking the time to read my profile! -->
-
+Feel free to contact me at nnuranisahh@gmail.com or connect with me on instagram https://instagram.com/anisa_sz, and you can find me at linkedIn https://linkedin.com/in/nuranisah01.
+I am always open to new opportunities and collaborations.
 
 
 ### Hi there. I'm Nur Anisah 👋
@@ -35,5 +33,4 @@ Thank you for taking the time to read my profile! -->
 ### Packages I created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraln&repo=data-science-template)](https://github.com/nuraln/python-graphAndBinaryTree ) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraln&repo=analyze_github_feed)](https://github.com/nuraln/ PHP-loginRegisterSimple)
-
 
