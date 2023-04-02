@@ -1,5 +1,4 @@
-<!-- 
-## About Me
+<!-- ## About Me
 
 Hello there! My name is Nur Anisah, and I am a Proggrammer. I am passionate about IT and technology, and I enjoy learning about new technologies and tools that can help me improve my skills.
 
@@ -9,18 +8,23 @@ Hello there! My name is Nur Anisah, and I am a Proggrammer. I am passionate abou
 Feel free to contact me at nnuranisahh@gmail.com or connect with me on instagram https://instagram.com/anisa_sz, and you can find me at linkedIn https://linkedin.com/in/nuranisah01.
 I am always open to new opportunities and collaborations.
 
+Thank you for taking the time to read my profile! -->
+
+
 
 ### Hi there. I'm Nur Anisah 👋
 
 
-- 🌱 I’m addicted to learning and growing every day.
+- 🌱 I’m addicted to learning and growing every day. I am passionate about IT and technology, and I enjoy learning about new technologies and tools that can help me improve my skills.
+I am always open to new opportunities and collaborations. Thank you for taking the time to read my profile!
+
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/nuranisah01/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/anisa_sz)
-<!-- - 📫 Learn more about me on:   -->
+- 📫 Learn more about me on:  
   - :bulb: [Instagram](https://instagram.com/anisa_sz)
-  <!-- - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)-->
+  - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)
   - :email: [Email](nnuranisahh@gmail.com) 
 
 
